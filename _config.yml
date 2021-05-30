@@ -111,7 +111,7 @@ content:
       - [Playing Piano](https://www.youtube.com/watch?v=EgkZRYbpL_Y)
 
       Look at this cool image  
-      ![HaLongCity](/resume/images/hometown.jpg "Ha Long City")
+      ![HaLongCity](/resume/images/hometown.jpg "Ha Long City"){: style="width:500px"}
 
 # Footer
 footer_show_references: true
@@ -126,3 +126,6 @@ sass:
 
 plugins:
  - jekyll-seo-tag
+
+markdown_extensions:
+  - attr_list
