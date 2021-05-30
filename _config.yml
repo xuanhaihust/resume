@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/ava.png
 about_content: | # this will include new lines to allow paragraphs
-  Hello, I'm Hai, an AI engineer, a quick learner and a self motivated person. My experiences lie on Computer Vision and Image Processing, Data Analytics, a basic understanding of NLP with 2 years working as an AI/ML engineer. My AI products have reached and enhanced the experience of millions of users.
+  Hello, I'm Hai, an AI engineer, a quick learner and a self motivated person. My experiences lie on Computer Vision, Deep Learning, Data Analytics with 2 years working as an AI/ML engineer. My AI products have reached and enhanced the experience of millions of users.
 
   I am most skilled in: <mark>Computer Vision</mark> and <mark>Playing Board Game</mark>
 
@@ -104,13 +104,14 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - Karate do
+      - Running
+      - Board Game
+      - Training new models
+      - [Playing Piano](https://www.youtube.com/watch?v=EgkZRYbpL_Y)
 
       Look at this cool image  
-      ![Trees](/resume/images/landscape-trees.jpg "Trees")
+      ![HaLongCity](/resume/images/hometown.jpg "Ha Long City")
 
 # Footer
 footer_show_references: true
