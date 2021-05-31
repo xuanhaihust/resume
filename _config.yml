@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: xuanhaihust/resume
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -94,7 +94,7 @@ content:
         quote: >
           Solving 21st century problems by taking advantage of AI and Big Data.
         description: | # this will include new lines to allow paragraphs
-            - Research and develop ML model for [Thalassemia](https://www.cdc.gov/ncbddd/thalassemia/facts.html) detection problem.
+            - Research and develop ML model for [Thalassemia](https://www.cdc.gov/ncbddd/thalassemia/facts.html){:target="_blank"} detection problem.
             
             - Involve in AI project deployment process, perform DL model optimization. On production server, the optimized model is 3x faster and 4x lighter with just a little accuracy sacrifice.
 
@@ -142,8 +142,8 @@ content:
       - Karate do, running
       - Board Game
       - Science Fiction Movies
-      - [Writing](https://xuanhaihust.wordpress.com)
-      - [Piano](https://www.youtube.com/watch?v=EgkZRYbpL_Y)
+      - [Writing](https://xuanhaihust.wordpress.com){:target="_blank"}
+      - [Piano](https://www.youtube.com/watch?v=EgkZRYbpL_Y){:target="_blank"}
 
 
       Alright, so much information for today.  
