@@ -70,10 +70,10 @@ content:
         quote: >
           An end-to-end OCR application for document digitalization based on AI technology.  
         description: | # this will include new lines to allow paragraphs
-          Many <mark>OCR<mark> apps/services today just return some raw texts of input document image. I've been searching for an app which can give me the document with exactly same format as the input image, what I really need, but I got no one good enough for Vietnamese document.
+          Many <mark>OCR</mark> apps/services today just return some raw texts of input document image. I've been searching for an app which can give me the document with exactly same format as the input image, what I really need, but I got no one good enough for Vietnamese document.
           As an engineer, I decided to make it myself.
 
-          <mark>OmegaOCR<mark> utilizes the Deep Learning advantage to solve real life OCR problem, it contains a pipeline which receives images taken from any device such as smartphone camera (accept background), scanner... and reconstructs the digital document (.docx) with the same format as the input image, so that the document can be edited by end user..
+          <mark>OmegaOCR</mark> utilizes the Deep Learning advantage to solve real life OCR problem, it contains a pipeline which receives images taken from any device such as smartphone camera (accept background), scanner... and reconstructs the digital document (.docx) with the same format as the input image, so that the document can be edited by end user..
 
           I have learned many skills through this and been I'm very proud of having this in my portfolio.
 
@@ -121,7 +121,7 @@ content:
           Established in 1958, HUST is the biggest and top science/engineering university in Vietnam.
         description: | # this will include new lines to allow paragraphs
           My 2nd degree at Hanoi University of Science and Technology. To learn IT, Programming fundamentals and Software Engineering.
-          
+
       - layout: left
         title: Hanoi University of Science and Technology (HUST)
         caption: 2013 - 2018
