@@ -52,6 +52,8 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in: <mark>Computer Vision</mark> and <mark>Playing Board Game</mark>
 
+  Here's my work [CV](https://drive.google.com/drive/folders/1AV3_2b4lTDeJLCgROyVMv0ObrHCeQR0u?usp=sharing).
+
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -70,7 +72,7 @@ content:
         quote: >
           An end-to-end OCR application for document digitalization based on AI technology.  
         description: | # this will include new lines to allow paragraphs
-          Many <mark>OCR</mark> apps/services today just return some raw texts of input document image. I've been searching for an app which can give me the document with exactly same format as the input image, what I really need, but I got no one good enough for Vietnamese document.
+          Many OCR apps/services today just return some raw texts of reading from input image. I've been searching for an app which can give me the document with exactly same format as the input image, what I really need, but I got no one good enough for Vietnamese document.
           As an engineer, I decided to make it myself.
 
           <mark>OmegaOCR</mark> utilizes the Deep Learning advantage to solve real life OCR problem, it contains a pipeline which receives images taken from any device such as smartphone camera (accept background), scanner... and reconstructs the digital document (.docx) with the same format as the input image, so that the document can be edited by end user..
