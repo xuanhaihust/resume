@@ -114,27 +114,23 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Hanoi University of Science and Technology (HUST)
+        title: Hanoi University of Science and Technology
         caption: 2019 - 2021
         sub_title: BSc Computer Science
         quote: >
           Established in 1958, HUST is the biggest and top science/engineering university in Vietnam.
         description: | # this will include new lines to allow paragraphs
-          My 2nd degree at Hanoi University of Science and Technology. To learn IT, Programming fundamentals and Software Engineering.
+          My 2nd degree at Hanoi University of Science and Technology (HUST). To learn IT, Programming fundamentals and Software Engineering.
 
       - layout: left
-        title: Hanoi University of Science and Technology (HUST)
+        title: Hanoi University of Science and Technology
         caption: 2013 - 2018
         sub_title: BSc Mechatronics Engineering
         description: |
-          This is my first degree at Hanoi University of Science and Technology.
+          This is my first degree. It's a wonderful period of my life that I've been learned and explored a lot, experienced so many memorable things, and found out my passion in coding and Computer Vision - Image Processing.
 
           I spent most of my time learning major knowledges at school and research at Optical-Mechatronics Laboratory.
           In my free time, I tried to improve my soft skill such as English, presentation, teamwork... by taking a partime direct Sales position. I also participated in HUST Lean Six Sigma Club where I was the director of Communication Board.
-
-          It's a wonderful period of my life that I've been learned and explored a lot, experienced so many memorable things, and found out my passion in coding and Computer Vision - Image Processing.
-
-          
 
 
   - title: A Little More About Me
@@ -144,7 +140,7 @@ content:
       - Karate do, running
       - Board Game
       - Science Fiction Movies
-      - [Writing]()
+      - [Writing](xuanhaihust.wordpress.com)
       - [Piano](https://www.youtube.com/watch?v=EgkZRYbpL_Y)
 
 
