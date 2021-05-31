@@ -15,25 +15,25 @@ website: www.ecoai.pro
 darkmode: false
 
 # Social links
-twitter_username: xuanhaihust
+# twitter_username: xuanhaihust
 github_username:  xuanhaihust
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
-# facebook_username: jekyll
+facebook_username: xuanhaihust
 # flickr_username: jekyll
 instagram_username: xuanhaihust
 linkedin_username: xuanhaihust
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: xuanhaihust
+# youtube_username: xuanhaihust
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
-- title: ecoai.pro
+- title: xuanhaihust.ecoai.pro
   icon: fas fa-globe
-  url: https://www.ecoai.pro
+  url: http://xuanhai.ecoai.pro
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -61,57 +61,96 @@ content:
         link: gitlab.com/pikachu-ai/omegaocr
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  pikachu-ai/omegaocr
             icon: fab fa-gitlab
             url: gitlab.com/pikachu-ai/omegaocr
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          An end-to-end OCR application for document digitalization based on AI technology.  
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Many <mark>OCR<mark> apps/services today just return some raw texts of input document image. I've been searching for an app which can give me the document with exactly same format as the input image, what I really need, but I got no one good enough for Vietnamese document.
+          As an engineer, I decided to make it myself.
+
+          <mark>OmegaOCR<mark> utilizes the Deep Learning advantage to solve real life OCR problem, it contains a pipeline which receives images taken from any device such as smartphone camera (accept background), scanner... and reconstructs the digital document (.docx) with the same format as the input image, so that the document can be edited by end user..
+
+          I have learned many skills through this and been I'm very proud of having this in my portfolio.
+
+          For now, I'm trying to improve the OCR pipeline to archive higher performance, deploy the app as a cloud service and intergrate into mobile/web environment. The Demo Web interface can be found in project's repo.
+
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Vingroup Bigdata Institute
+        link: https://vinbigdata.org/en/
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: MLOps Engineer
+        caption: October 2020 - Present
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Solving 21st century problems by taking advantage of AI and Big Data.
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            - Research and develop ML model for [Thalassemia](https://www.cdc.gov/ncbddd/thalassemia/facts.html) detection problem.
+            
+            - Involve in AI project deployment process, perform DL model optimization. On production server, the optimized model is 3x faster and 4x lighter with just a little accuracy sacrifice.
+
+      - layout: left
+        title: Giao Hàng Tiết Kiệm., JSC
+        link: https://giaohangtietkiem.vn/
+        sub_title: AI Engineer
+        caption: October 2019 - October 2020
+        quote: >
+          Change the Vietnam logistic and Ecommerce system, bring fast and cheap shipping service to everyone.
+        description: | # this will include new lines to allow paragraphs
+            - Our team aims to take advantage of AI technology to build smart features, provide best customer experience and high productivity.
+
+            - As a key-person of the team, my responsibility was to collect, analyze, process the data and develop AI application to solve order routing, OCR, object detection problems. My AI products have reached and enhanced the experience of millions of users, supporting increase the productivity of company's logistic system.
+
+            - Collaborate with Operations team for data, workflow understanding, feature requirements; DevOps team for deployment.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
+        title: Hanoi University of Science and Technology (HUST)
+        caption: 2019 - 2021
         sub_title: BSc Computer Science
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Established in 1958, HUST is the biggest and top science/engineering university in Vietnam.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          My 2nd degree at Hanoi University of Science and Technology. To learn IT, Programming fundamentals and Software Engineering.
+          
+      - layout: left
+        title: Hanoi University of Science and Technology (HUST)
+        caption: 2013 - 2018
+        sub_title: BSc Mechatronics Engineering
+        description: |
+          This is my first degree at Hanoi University of Science and Technology.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          I spent most of my time learning major knowledges at school and research at Optical-Mechatronics Laboratory.
+          In my free time, I tried to improve my soft skill such as English, presentation, teamwork... by taking a partime direct Sales position. I also participated in HUST Lean Six Sigma Club where I was the director of Communication Board.
+
+          It's a wonderful period of my life that I've been learned and explored a lot, experienced so many memorable things, and found out my passion in coding and Computer Vision - Image Processing.
+
+          
+
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Karate do
-      - Running
+      Alongside my interests in AI and Computer Vision, some of my other hobbies are:
+      - Karate do, running
       - Board Game
-      - Training new models
-      - [Playing Piano](https://www.youtube.com/watch?v=EgkZRYbpL_Y)
+      - Science Fiction Movies
+      - [Writing]()
+      - [Piano](https://www.youtube.com/watch?v=EgkZRYbpL_Y)
 
-      Look at this cool image, that's my hometown ^^  
-      ![HaLongCity](/resume/images/hometown.jpg "Ha Long City"){: style="width:500px"}
+
+      Alright, so much information for today.  
+      Look at this beautiful landscape, that's my hometown ^^  
+      ![HaLongCity](/resume/images/hometown.jpg "Ha Long City"){: style="width:600px"}
 
 # Footer
 footer_show_references: true
