@@ -31,9 +31,9 @@ linkedin_username: xuanhaihust
 
 # Additional icon links
 additional_links:
-- title:  https://gitlab.com/xuanhaihust
+- title:  gitlab.com/xuanhaihust
   icon: fab fa-gitlab
-  url: https://gitlab.com/pikachu-ai/omegaocr
+  url: https://gitlab.com/xuanhaihust/
 - title: xuanhaihust.ecoai.pro
   icon: fas fa-globe
   url: http://xuanhai.ecoai.pro
