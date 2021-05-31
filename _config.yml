@@ -52,7 +52,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in: <mark>Computer Vision</mark> and <mark>Playing Board Game</mark>
 
-  Here's my work [CV](https://drive.google.com/drive/folders/1AV3_2b4lTDeJLCgROyVMv0ObrHCeQR0u?usp=sharing).
+  Here's my work [CV](https://drive.google.com/drive/folders/1AV3_2b4lTDeJLCgROyVMv0ObrHCeQR0u?usp=sharing){:target="_blank"}.
 
 content:
   - title: Projects # Title for the section
