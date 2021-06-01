@@ -75,10 +75,10 @@ content:
         quote: >
           An end-to-end OCR application for document digitalization based on AI technology.  
         description: | # this will include new lines to allow paragraphs
-          Many OCR apps/services today just return some raw texts reading from input image. I've been searching for an app which can give me the document with exactly same format as the input image, what I really need, and surprised that I got no one good enough for Vietnamese document.
+          Many OCR apps/services today just return some raw texts reading from input image. I've been searching for an app which gives me a .docx file with exactly same format as the input image, what I really need, and surprised that I got no one good enough for Vietnamese document.
           As an engineer, I decided to make it myself.
 
-          <mark>OmegaOCR</mark> utilizes the Deep Learning advantage to solve real life OCR problem, it contains a pipeline which receives images taken from any device such as smartphone camera (accept background), scanner... and reconstructs the digital document (.docx) with the same format as the input image, so that the document can be edited by end user..
+          <mark>OmegaOCR</mark> utilizes the Deep Learning advantage to solve real life OCR problem. It contains a pipeline which receives images taken from any device such as smartphone camera (accept background), scanner... and reconstructs the digital document (.docx) with the same format as the input image, so that the document can be edited by end user..
 
           I have learned many skills through this and been I'm very proud of having this in my portfolio.
 
@@ -134,8 +134,8 @@ content:
         description: |
           This is my first degree. It's a wonderful period of my life that I've been learned and explored a lot, experienced so many memorable things, and found out my passion in coding and Computer Vision - Image Processing.
 
-          I spent most of my time learning major knowledges at school and research at Optical-Mechatronics Laboratory.
-          In my free time, I tried to improve my soft skill such as English, presentation, teamwork... by taking a partime direct Sales position. I also participated in HUST Lean Six Sigma Club where I was the director of Communication Board.
+          I spent most of my time studying at school and Optical - Mechatronics Laboratory.
+          In my free time, I've tried to improve my soft skills by taking a partime direct Sales position and been promoted to be Sales Leader after 6 months. I've also participated in HUST Lean Six Sigma Club (HULS) where I was the director of Communication Board and led a team won First Prize in I-Startup 2017 Contest.  
 
 
   - title: A Little More About Me
